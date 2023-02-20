@@ -5,7 +5,7 @@
 //  Created by Rose on 18.02.2023.
 //
 
-import Foundation
+import UIKit
 
 struct BMI {
     let value: Float
